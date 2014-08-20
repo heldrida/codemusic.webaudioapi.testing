@@ -1,0 +1,21 @@
+{
+  "name": "codemusic.punkbit.com",
+  "version": "0.0.0",
+  "authors": [
+    "Heldrida"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "wad": "~1.7.0"
+  },
+  "devDependencies": {
+    "wad": "~1.7.0"
+  }
+}
